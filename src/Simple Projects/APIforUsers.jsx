@@ -18,7 +18,7 @@ const APIforUsers = () => {
     return (
         <>
             <AppBar sx={{ position: 'static' }}>
-                <Toolbar sx={{ fontSize: '30px' }}>Users</Toolbar>
+                <Toolbar sx={{ fontSize: '30px' }}>Users Table</Toolbar>
             </AppBar>
             <TableContainer component={Paper}>
 
